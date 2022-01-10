@@ -8,3 +8,23 @@
     margin-left: auto;
     margin-right: auto;
 }
+
+.postdate{
+    text-align: center;
+}
+
+.posttitle{
+    font-family: Luxurious;
+    font-size: 3em;
+    text-align: center;
+}
+
+.postcontent{
+    font-family: Luxurious;
+    font-size: 1.5em;
+}
+
+.btn-comment{
+    position: absolute;
+    right: 0px;
+}
